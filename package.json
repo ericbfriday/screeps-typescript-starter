@@ -65,6 +65,7 @@
     "typescript": "^3.8.3"
   },
   "dependencies": {
+    "rxjs": "^6.6.3",
     "source-map": "~0.6.1"
   }
 }
